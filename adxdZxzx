@@ -1,0 +1,11 @@
+[1mdiff --git a/index.js b/index.js[m
+[1mindex ad86b2e..bbe8738 100644[m
+[1m--- a/index.js[m
+[1m+++ b/index.js[m
+[36m@@ -1 +1,3 @@[m
+[31m-console.log("hello");[m
+\ No newline at end of file[m
+[32m+[m[32mconsole.log("hello");[m
+[32m+[m
+[32m+[m[32mconsole.log("hey");[m
+\ No newline at end of file[m
